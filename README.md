@@ -1,5 +1,5 @@
 
-# 🎓 Vedantu Educational Video Generator
+#  Vedantu Educational Video Generator
 
 Generate student-friendly YouTube videos from just a topic — including script, voiceover, visuals, and metadata — all in one click.
 
@@ -17,7 +17,7 @@ This app automates the full process for teachers, tutors, and ed-tech creators.
 
 ---
 
-## 💡 Why It Matters
+##  Why It Matters
 
 -  Scales content creation
 -  Powered by LLaMA3-70B (Groq)
@@ -27,7 +27,7 @@ This app automates the full process for teachers, tutors, and ed-tech creators.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Layer          | Technology                         |
 |----------------|------------------------------------ |
